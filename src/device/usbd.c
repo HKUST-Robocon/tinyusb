@@ -1,3 +1,4 @@
+#pragma GCC diagnostic ignored "-Wcast-qual"
 /* 
  * The MIT License (MIT)
  *
